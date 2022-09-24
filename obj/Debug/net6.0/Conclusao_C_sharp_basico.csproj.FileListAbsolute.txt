@@ -1,0 +1,15 @@
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\obj\Debug\net6.0\Conclusao_C_sharp_basico.csproj.AssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\obj\Debug\net6.0\Conclusao_C_sharp_basico.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\obj\Debug\net6.0\Conclusao_C_sharp_basico.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\obj\Debug\net6.0\Conclusao_C_sharp_basico.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\obj\Debug\net6.0\Conclusao_C_sharp_basico.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\bin\Debug\net6.0\Conclusao_C_sharp_basico.exe
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\bin\Debug\net6.0\Conclusao_C_sharp_basico.deps.json
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\bin\Debug\net6.0\Conclusao_C_sharp_basico.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\bin\Debug\net6.0\Conclusao_C_sharp_basico.dll
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\bin\Debug\net6.0\Conclusao_C_sharp_basico.pdb
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\obj\Debug\net6.0\Conclusao_C_sharp_basico.dll
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\obj\Debug\net6.0\refint\Conclusao_C_sharp_basico.dll
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\obj\Debug\net6.0\Conclusao_C_sharp_basico.pdb
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\obj\Debug\net6.0\Conclusao_C_sharp_basico.genruntimeconfig.cache
+E:\Meus Documentos\Área de Trabalho\C# fundaçao bradesco\Conclusao_C_sharp_basico\obj\Debug\net6.0\ref\Conclusao_C_sharp_basico.dll
